@@ -37,6 +37,8 @@ Aim of the project is to make usable education easier and more affordable to the
     + Site administration;
     + Content Management;
     + Frontend development using HTML5, CSS3, JavaScript, PrestaShop modules;
+###### *Environment:
++ WebStorm, PrestaShop, JavaScript, HTML5, CSS3.
 
 ##### *Online-store*
 - Development of online-store application. The application includes private, public pages and supports user authorization and registration. The product catalog and the cart is available after authorization. Application allows users to add items to cart and to place the orders, then user can view order history in the personal account.
@@ -46,8 +48,7 @@ Aim of the project is to make usable education easier and more affordable to the
     + Creating logic of the application;
     + Styling the app using CSS3 and Material UI;
 ###### * Environment:
-+ WebStorm, React, Redux, JavaScript, SCSS, Material UI, Ant Design, TinyMCE, Git, GitLab, Jira.
-
++ WebStorm, ReactJS, Redux, JSX, SCSS, JavaScript, Material UI, Git.
 ## Education
 - IT-SHATLE 'Frontend 1LVL HTML/CSS'
 - IT-SHATLE 'Frontend 2LVL ReactJS/Redux'
